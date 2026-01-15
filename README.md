@@ -20,6 +20,7 @@ Computer vision research
 Experimental UI interactions
 Presentation control
 
+
 📦 Requirements
 Standard webcam
 Compatible computer (Windows / macOS / Linux)
